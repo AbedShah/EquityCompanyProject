@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -34,20 +33,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-=======
-  "name": "equitycompanyproject",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^4.21.2",
-    "mongoose": "^8.9.5"
->>>>>>> aa06876841a522d7b79b6298d5ff99cbdfab98a1
   }
 }
